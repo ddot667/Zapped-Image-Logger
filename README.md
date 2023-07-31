@@ -1,0 +1,1 @@
+# Zapped-Image-Logger
